@@ -10,24 +10,8 @@ in the meantime, please visit the updated website https://fredericchain.weebly.c
 
 <img src="sticklebacks.jpg" alt="sticklebacks">
 
-```markdown
 
 genome evolution during adaptation and speciation
-
-```
-
-```markdown
 duplicate genes and copy number variations (CNVs)
-
-```
-
-```markdown
 mutational spectra and microbiome diversity under stress
-
-```
-
-```markdown
 environmental biomonitoring using eDNA
-
-```
-
