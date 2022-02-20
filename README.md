@@ -8,7 +8,10 @@ in the meantime, please visit the updated website https://fredericchain.weebly.c
 
 ###  we use bioinformatics to study evolutionary and environmental genomics
 
+<img src="sticklebacks.jpg" alt="sticklebacks">
+
 ```markdown
+
 genome evolution during adaptation and speciation
 
 ```
